@@ -57,7 +57,7 @@ namespace RevitAPITraining_3_4
 
 
             }
-            TaskDialog.Show("Length", "Параметры длины с запасом заполнены");
+            TaskDialog.Show("Диаметры", "Параметр наименование для труб заполнен");
 
             return Result.Succeeded;
         }
